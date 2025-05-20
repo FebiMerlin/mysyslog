@@ -1,0 +1,44 @@
+# Общие файлы
+*.o
+*.a
+*.so
+*.dll
+*.exe
+*.out
+*.obj
+*.lo
+*.la
+*.dep
+*.d
+*.gcda
+*.gcno
+*.gcov
+*.pdb
+*.ilk
+*.idb
+*.class
+*.pyc
+*.pyo
+*.log
+*.tmp
+*.swp
+*.swo
+*.DS_Store
+*.bak
+*.~
+
+# Каталоги сборки
+build/
+dist/
+Debug/
+Release/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project 
